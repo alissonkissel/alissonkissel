@@ -1,13 +1,4 @@
-### Oi, eu sou o Alisson Kissel, desenvolvedor de software <3
-
-### No que estou focado agora:
-- Melhorar minhas habilidades como desenvolvedor .NET.
-
-### Tecnologias com que trabalho e domino:
-- C#
-- .NET
-- SQL Server
-
+### Oi, eu sou o Alisson Kissel, desenvolvedor de software
 
 <div align="center">
   <a href="https://github.com/alissonkissel">
